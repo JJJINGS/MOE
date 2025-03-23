@@ -1,2 +1,5 @@
-# MOE
- this is a mini-moe model about medicine image 
+# README
+
+这里是一个大二的njuer开源的一个小型医学moe模型。（虽然现在还没开始...）moe模型的预期功能是根据患者的肺部CT图像判断患者是否患有肺结核，并给出解释依据。
+
+欢迎大家check or criticize我们的项目~~
